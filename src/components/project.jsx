@@ -55,13 +55,13 @@ function Project(){
         </div>
         <div className="projectlinks" onMouseOut={disable} onMouseOver={enable} >
             <div className="projshowcase" id="projshowcase"><img id="projpic" className="projpic" height="500px" width="760px"></img></div>
-            <p className="projlink1"  onMouseOver={addlifesaverimg} ><b><a href="https://www.youtube.com/watch?v=k0h1mX1tRPI&t=12s" target="_blank">LifeSaver</a></b></p>
+            <p className="projlink1"  onMouseOver={addlifesaverimg} ><b><a href="https://www.youtube.com/watch?v=k0h1mX1tRPI&t=12s" target="_blank" rel="noreferrer">LifeSaver</a></b></p>
             <hr className="row7"/>
-            <p className="projlink2" onMouseOver={todolist}><b><a href="https://github.com/mangalamraj/todolist" target="_blank">Todolist</a></b></p>
+            <p className="projlink2" onMouseOver={todolist}><b><a href="https://github.com/mangalamraj/todolist" target="_blank" rel="noreferrer">Todolist</a></b></p>
             <hr className="row8"/>
-            <p className="projlink3" onMouseOver={TantraFiesta}><b><a href="https://www.tantrafiesta.in/" target="_blank">TantraFiesta</a></b></p>
+            <p className="projlink3" onMouseOver={TantraFiesta}><b><a href="https://www.tantrafiesta.in/" target="_blank" rel="noreferrer">TantraFiesta</a></b></p>
             <hr className="row9"/>
-            <p className="projlink4" onMouseOver={TinDog}><b><a href="https://github.com/mangalamraj/TinDog" target="_blank">TinDog</a></b></p>
+            <p className="projlink4" onMouseOver={TinDog}><b><a href="https://github.com/mangalamraj/TinDog" target="_blank" rel="noreferrer">TinDog</a></b></p>
             <hr className="row10"/>
             <p className="projlink5" onMouseOver={MySite}><b>MySite</b></p>
         </div>

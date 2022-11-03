@@ -31,9 +31,9 @@ function Contactme(){
         
 
 
-        <div className="instadiv"><a href="https://www.instagram.com/mango.raj/" target="_blank"><img src="/images/newinsta.png" className="insta"></img></a></div>
-        <div className="linkediv"><a href="https://www.linkedin.com/in/mangalam-raj-7b03b0241" target="_blank"><img src="/images/newlinked.png" className="linkedin"></img></a></div>
-        <div className="facebookdiv"><a href="https://www.facebook.com/mangalam.raj" target="_blank"><img src="/images/newfb.png" className="facebook"></img></a></div>
+        <div className="instadiv"><a href="https://www.instagram.com/mango.raj/" target="_blank" rel="noreferrer"><img src="/images/newinsta.png" className="insta"></img></a></div>
+        <div className="linkediv"><a href="https://www.linkedin.com/in/mangalam-raj-7b03b0241" target="_blank" rel="noreferrer"><img src="/images/newlinked.png" className="linkedin"></img></a></div>
+        <div className="facebookdiv"><a href="https://www.facebook.com/mangalam.raj" target="_blank" rel="noreferrer"><img src="/images/newfb.png" className="facebook"></img></a></div>
         <div className="formBackground">
         <hr className="contactrow1"/>
         <hr className="contactrow2"/>
